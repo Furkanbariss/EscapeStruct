@@ -1,0 +1,36 @@
+=== Simulation started ===
+Round 0, Agent 1
+Last 5 moves: [1,1, 1,2]
+Round 1, Agent 2
+Last 5 moves: [6,1, 5,1]
+Round 2, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3]
+Round 3, Agent 2
+Last 5 moves: [6,1, 5,1, 5,2]
+Round 4, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3]
+Round 5, Agent 2
+Last 5 moves: [6,1, 5,1, 5,2, 5,3]
+Agent 1 hit a trap!
+Round 6, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3]
+Round 7, Agent 2
+Last 5 moves: [6,1, 5,1, 5,2, 5,3, 6,3]
+Round 8, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3, 1,2]
+Round 9, Agent 2
+Last 5 moves: [5,1, 5,2, 5,3, 6,3, 6,4]
+Round 10, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3, 1,2]
+Round 11, Agent 2
+Last 5 moves: [5,2, 5,3, 6,3, 6,4, 6,5]
+Agent 1 collected a power-up.
+Round 12, Agent 1
+Last 5 moves: [1,1, 1,2, 1,3, 1,2, 2,2]
+Agent 2 reached the goal!
+Round 13, Agent 2
+Last 5 moves: [5,3, 6,3, 6,4, 6,5, 6,6]
+Round 14, Agent 1
+Last 5 moves: [1,2, 1,3, 1,2, 2,2, 3,2]
+Simulation ended in 15 turns.
+Avg moves: 6,50, Max stack depth: 8, Winner: 2
