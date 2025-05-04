@@ -60,9 +60,9 @@ The user is prompted for the following inputs:
 
 ## 👨‍💻 Developers
 
+- **Furkan Barış Sönmezışık** – 220401072
 - **Necati Kurtaran** – 220401065
 - **İbrahim Çelik** – 220401041
-- **Furkan Barış Sönmezışık** – 220401072
 
 ---
 
