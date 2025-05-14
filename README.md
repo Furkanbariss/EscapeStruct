@@ -60,7 +60,7 @@ The user is prompted for the following inputs:
 
 ## 👨‍💻 Developer
 
-- **Furkan Barış Sönmezışık** – 220401072
+- **Furkan Barış Sönmezışık** 
 
 ---
 
