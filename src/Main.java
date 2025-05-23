@@ -15,9 +15,7 @@ public class Main {
         System.out.println("|                                                     |");
         System.out.println("*=====================================================*");
         System.out.println("|                                                     |");
-        System.out.println("|   Geliştiren: Necati Kurtaran         (220401065)   |");
-        System.out.println("|               İbrahim Çelik           (220401041)   |");
-        System.out.println("|               Furkan Barış Sönmezışık (220401072)   |");
+        System.out.println("|   Geliştiren: Furkan Barış Sönmezışık (220401072)   |");
         System.out.println("|                                                     |");
         System.out.println("*=====================================================*");
 
