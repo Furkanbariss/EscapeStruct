@@ -66,4 +66,4 @@ The user is prompted for the following inputs:
 
 ## 📄 License
 
-Academic use only. All rights reserved © 2025.
+This project is licensed under the [MIT License](./LICENSE).
